@@ -1,6 +1,6 @@
 # FABRIC STAIN DETECTION USING YOLOv3
 
-This is the implementation of a REST API to detect stain defect from an image in python based on [this](https://github.com/PrimeshShamilka/fabric_defect_detector) project.
+This implementation is based on [this](https://github.com/PrimeshShamilka/fabric_defect_detector) project and integrates a REST API to it for detecting stain defects from an image.
 
 
 ### How to run?
