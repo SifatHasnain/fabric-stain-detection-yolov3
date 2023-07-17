@@ -42,6 +42,10 @@ This implementation is based on [this](https://github.com/PrimeshShamilka/fabric
 }
 ```
 
+### Train 
+
+https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects
+
 ## REFERENCES
 
 - https://github.com/PrimeshShamilka/fabric_defect_detector
